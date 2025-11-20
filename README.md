@@ -2,8 +2,7 @@
 ## EXPERIMENT – 7 4-bit Random Number Generation using SystemVerilog Constraints and Distribution Verification
 
 ## Aim
-
-To design a SystemVerilog class using constraint–based randomization to generate 4-bit random numbers, and to verify the distribution of generated values using a testbench in Vivado.
+To design a SystemVerilog class using constraint–based randomization to generate 4-bit random numbers, and to verify the distribution of generated values using a testbench in EDA Playground
 
 ## Tool Used
 
